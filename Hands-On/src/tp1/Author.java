@@ -9,6 +9,11 @@ public class Author {
         this.First_name = firstName;
         this.Last_name = lastName;
     }
+
+    public void LinaFct(){
+    	System.out.println("here i am");
+
+    }
 //	public Book CreateBook() {
 //		Book b;
 //		b = new Book(String title);
