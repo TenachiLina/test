@@ -8,6 +8,10 @@ public class Exercice1 {
 		
 	Person p = new Person("Tenachi","Lina",20);
 	
+	p.Linafct3();
+	
+	
+	
 	System.out.println("p's age is : " + p.Age);
 	System.out.println("p's first_name is : " + p.First_name);
 	
@@ -33,5 +37,8 @@ public class Exercice1 {
 	
 
 	}
+	
+	
+
 
 }
