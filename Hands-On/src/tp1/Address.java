@@ -13,7 +13,9 @@ public class Address {
 	}
 
 
-
+	public void Linafct2() {
+		System.out.println("i'm learning GitHub ");
+	}
 
 
 

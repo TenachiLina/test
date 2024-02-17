@@ -7,6 +7,12 @@ public class Person {
 	String First_name;
 	int Age;
 
+	public void Linafct3() {
+		System.out.println("i'm learning GitHub ");
+	}
+
+	
+	
 	//méthode Person est le constructeur car il porte le même nom que la classe (?)
 	//et il renvoie bien l'instance après l'avoir construite même s'il n'y a pas type de renvoi (?)
 	public Person(String last_name,String first_name,int age)
