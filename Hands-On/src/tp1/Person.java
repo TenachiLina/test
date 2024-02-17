@@ -11,7 +11,10 @@ public class Person {
 		System.out.println("i'm learning GitHub ");
 	}
 
-	
+	public void salutFct() {
+		System.out.println("SALUT!!!!!! ");
+	}
+
 	
 	//méthode Person est le constructeur car il porte le même nom que la classe (?)
 	//et il renvoie bien l'instance après l'avoir construite même s'il n'y a pas type de renvoi (?)
