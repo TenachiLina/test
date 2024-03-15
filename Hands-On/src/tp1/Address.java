@@ -1,6 +1,6 @@
 package tp1;
 
-public class Address {
+public class Address { //commantaire yawm 15/3/2024 testing IntelligIDEA
 	private String street ;
 	private String city ;
 	private int postal_code ;
